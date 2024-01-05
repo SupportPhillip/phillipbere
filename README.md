@@ -3,7 +3,7 @@
 
 I'm an aspiring IT professional and UX designer based in Tongaat, South Africa. Currently focusing on Network Defence Essentials Cybersecurity with the EC Council.
 
-https://github.com/phillipbere/github-stats-generator
+https://gh-stats-gen.vercel.app/
 
 Education:
 
