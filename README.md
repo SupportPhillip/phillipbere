@@ -3,7 +3,7 @@
 
 I'm an aspiring IT professional and UX designer based in Tongaat, South Africa. Currently focusing on Network Defence Essentials Cybersecurity with the EC Council.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supportphillip&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supportphillip&show_icons=true&theme=radical)
 
 Education:
 
